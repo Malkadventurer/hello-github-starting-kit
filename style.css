@@ -1,0 +1,25 @@
+h1 {
+  display: block;
+  margin: 50px auto;
+  padding: 50px;
+  max-width: fit-content;
+  text-align: center;
+  border: 2px solid royalblue;
+  border-radius: 100px;
+  background-color: aliceblue;
+  color: royalblue;
+  font-size: 3em;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 30%);
+}
+#yoda {
+  display: block;
+  margin: 50px auto;
+  padding: 5px;
+  max-width: fit-content;
+  text-align: center;
+  border: 1.5px solid royalblue;
+  border-radius: 30px;
+  color: royalblue;
+  background-color: aliceblue;
+  box-shadow: 5px 5px 10px rgb(0 0 0 / 30%);
+}
